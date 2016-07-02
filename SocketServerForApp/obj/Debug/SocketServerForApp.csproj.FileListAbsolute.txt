@@ -1,0 +1,11 @@
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\bin\Debug\SocketServerForApp.exe.config
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\bin\Debug\SocketServerForApp.exe
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\bin\Debug\SocketServerForApp.pdb
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\obj\Debug\SocketServerForApp.csprojResolveAssemblyReference.cache
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\obj\Debug\SocketServerForApp.Client.Client.resources
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\obj\Debug\SocketServerForApp.Form1.resources
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\obj\Debug\SocketServerForApp.Properties.Resources.resources
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\obj\Debug\SocketServerForApp.Server.Server.resources
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\obj\Debug\SocketServerForApp.csproj.GenerateResource.Cache
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\obj\Debug\SocketServerForApp.exe
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\obj\Debug\SocketServerForApp.pdb

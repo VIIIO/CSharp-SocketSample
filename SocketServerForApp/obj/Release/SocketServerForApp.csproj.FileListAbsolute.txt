@@ -1,0 +1,10 @@
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\bin\Release\SocketServerForApp.exe.config
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\bin\Release\SocketServerForApp.exe
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\bin\Release\SocketServerForApp.pdb
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\obj\Release\SocketServerForApp.Client.Client.resources
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\obj\Release\SocketServerForApp.Form1.resources
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\obj\Release\SocketServerForApp.Properties.Resources.resources
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\obj\Release\SocketServerForApp.Server.Server.resources
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\obj\Release\SocketServerForApp.csproj.GenerateResource.Cache
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\obj\Release\SocketServerForApp.exe
+D:\Vision\test\SocketServerForApp\SocketServerForApp\SocketServerForApp\obj\Release\SocketServerForApp.pdb
